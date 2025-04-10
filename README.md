@@ -8,7 +8,7 @@ These loaders help efficiently extract and process text from different sources f
 **pdf_loader.py** –
 Extracts and processes text from PDF documents.
 
-text_loader.py – Reads and cleans text from .txt files.
+**text_loader.py** – Reads and cleans text from .txt files.
 
 web_base_loader.py – Scrapes and retrieves content from web pages.
 
