@@ -3,7 +3,7 @@
 This repository contains various document loaders designed for Retrieval-Augmented Generation (RAG) pipelines. 
 These loaders help efficiently extract and process text from different sources for downstream NLP and AI applications.
 
-📂 Loaders Available:
+**📂 Loaders Available:**
 pdf_loader.py – Extracts and processes text from PDF documents.
 
 text_loader.py – Reads and cleans text from .txt files.
